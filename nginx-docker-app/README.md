@@ -1,7 +1,7 @@
 # Docker Nginx App
 
 ## 📌 Description
-A simple Docker project that serves a static HTML page using Nginx.
+A containerized Nginx web app serving static content with Docker deployment and port exposure.
 
 <br/>
 
